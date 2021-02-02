@@ -6,7 +6,7 @@ transform svg file to string
 ## INSTALL
 
 ```shell
-yarn add vite-plugin-svgstring
+yarn add vite-plugin-svgstring --dev
 ```
 
 ## USAGE
